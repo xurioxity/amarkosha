@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Noto Serif Devanagari', serif;
-  background-image: url('backg.png'); /* only this image */
+  background-image: url('bg.jpg'); /* only this image */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
